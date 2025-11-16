@@ -1,4 +1,6 @@
-
+![GitHub](https://img.shields.io/github/license/kaoheng1515/OLT-GPON-XPON-Troubleshooting?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/kaoheng1515/OLT-GPON-XPON-Troubleshooting?style=flat)
+![ViewCount](https://views.whatilearened.today/views/github/kaoheng1515/OLT-GPON-XPON-Troubleshooting.svg?cache=remove)
 # Supported Vendors & Devices
 
 | Vendor     | OLT Models Supported                                      | ONU/ONT Models Supported                              |
