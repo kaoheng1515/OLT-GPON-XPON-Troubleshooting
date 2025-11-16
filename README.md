@@ -15,7 +15,7 @@ Supported country-specific ISPs: Viettel, Metfone, Smart, Cellcard, CooTel, Sinf
 See complete list → [/vendors/supported-vendors.md](/vendors/supported-vendors.md)
 
 ## Quick Links
-- Huawei OLT/ONU → [/huawei](/https://github.com/kaoheng1515/Huawei-OLT-VSolution-Config)
+- Huawei OLT/ONU → [/huawei](https://github.com/kaoheng1515/Huawei-OLT-VSolution-Config)
 
 ## Most Used in Cambodia (2025)
 | Task                      | Command (Huawei OLT)                        | Command (ZTE OLT)                          |
